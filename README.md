@@ -3,10 +3,11 @@
 
 **get_the_comp_conf** - Скрипт предназначен для сбора информации с удаленных хостов загруженных из файлов .csv. Скрипт может дополнятся, в зависимости от спекта необходимой информации для сбора.
 Скрипт основан на библиотеке python - 'fabric3'
+Весь конфиг расположен в файле fabfile.py.
 
 ### Installation
 ```
-Установите Poetry - curl -sSL https://install.python-poetry.org | python3 -
+curl -sSL https://install.python-poetry.org | python3 -
 sudo yum install git
 git clone https://github.com/minoko86/get_the_comp_conf.git
 cd get_the_comp_conf
@@ -17,6 +18,7 @@ make package-install
 
 ### Customization
 ```
+0. Откройте на редактирование fabfile.py
 1. Если не используете экспорт пароля из .env закомментируйте строку #9, раскомментируйте строку #10 и введите пароль в ''.
 2. В строке #21 измените окончание файла 'kamges.csv' на Ваш.
 3. Измените название функции в строке #51 на Ваши.
