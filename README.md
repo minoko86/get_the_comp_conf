@@ -30,7 +30,9 @@ make package-install
 ```
 Перейти в директорию где расположены файлы fabfile.py и .csv
 Запустить скрипт командами указаными в HELP, добавляя перед командой 'fab'. 
-Например "fab diskspace_kamges"
+Например:
+"fab diskspace_kamges"
+"fab diskspace_kamges > 1.txt" - записывает вывод команды в файл 1.txt находящейся в текущей директории.
 ```
 
 ### Examples
