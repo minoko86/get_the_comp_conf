@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "get-the-comp-conf"
+version = "0.1.0"
+description = ""
+authors = ["Cvilev Andrey <CvilevAS@mail.ru>"]
+readme = "README.md"
+packages = [{include = "get_the_comp_conf"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+colorama = "^0.4.6"
+fabric3 = "^1.14.post1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
