@@ -1,0 +1,5 @@
+Name,Operatingsystem,Environment,Compute Resource Or Model,Hostgroup,Last Report
+ws-rgits-05-002.corp.gidroogk.com,RedHat 7.5,production,HP Compaq 8200 Elite SFF PC,Workstations/RGITS/RGITS-KAMGES,2023-08-09 10:13:18 UTC
+ws-rgits-05-003.corp.gidroogk.com,RedHat 7.5,production,HP ProDesk 400 G4 DM,Workstations/RGITS/RGITS-KAMGES,2023-08-09 10:27:04 UTC
+ws-rgits-05-004.corp.gidroogk.com,RedHat 7.5,production,NS685U R11,Workstations/RGITS/RGITS-KAMGES,2023-07-27 07:36:17 UTC
+ws-rgits-05-001.corp.gidroogk.com,RedHat 7.5,production,HP ProDesk 400 G3 DM,Workstations/RGITS/RGITS-KAMGES,2023-08-09 10:32:22 UTC
