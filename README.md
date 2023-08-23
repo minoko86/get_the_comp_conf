@@ -36,3 +36,6 @@ make package-install
 ```
 
 ### Examples
+Вывод команды 'fab -list'
+
+[![asciicast](https://asciinema.org/a/p0iHcPxwWEniEqBIHqWSMwsVC.svg)](https://asciinema.org/a/p0iHcPxwWEniEqBIHqWSMwsVC)
