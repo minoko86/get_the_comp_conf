@@ -6,7 +6,8 @@
 
 ### Installation
 ```
-git clone https://github.com/minoko86/get_the_comp_conf
+sudo yum install git
+git clone https://github.com/minoko86/get_the_comp_conf.git
 cd get_the_comp_conf
 make install
 make build
