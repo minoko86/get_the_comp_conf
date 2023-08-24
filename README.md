@@ -7,13 +7,14 @@
 
 ### Installation
 ```
-curl -sSL https://install.python-poetry.org | python3 -
+curl -sSL https://install.python-poetry.org | python3 -  (Для выполнения команды прописать настройки прокси, путем редактирования .bashrc)
 sudo yum install git
 git clone https://github.com/minoko86/get_the_comp_conf.git
 cd get_the_comp_conf
 make install
 make build
 make package-install
+убрать настройки прокси
 ```
 
 ### Customization
