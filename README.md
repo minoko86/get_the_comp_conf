@@ -40,6 +40,7 @@ make package-install
 "fab diskspace_kamges > 1.txt" - записывает вывод команды в файл 1.txt находящейся в текущей директории.
 ```
 
+
 ### Examples
 Вывод команды 'fab -list'
 
